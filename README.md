@@ -24,7 +24,7 @@ zplug 'migutw42/zsh-fzf-ghq'
 ## TODO
 * [ ] completion
 * [ ] selector options
-* [ ] select hook
+* [ ] hook function on selecting
 * [ ] screenshots
 
 
