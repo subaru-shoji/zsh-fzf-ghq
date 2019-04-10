@@ -12,7 +12,7 @@ Add [ghq](https://github.com/motemen/ghq) keybindings for zsh shell.
 ### Zplug
 
 ```
-zplug 'migutw42/zsh-fzf-ghq'
+zplug migutw42/zsh-fzf-ghq
 ```
 
 ## Usage
