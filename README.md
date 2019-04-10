@@ -7,7 +7,7 @@ Add [ghq](https://github.com/motemen/ghq) keybindings for zsh shell.
 * [ghq](https://github.com/motemen/ghq)
 * [fzf](https://github.com/junegunn/fzf)
 
-## Instalation
+## installation
 
 ### Zplug
 
